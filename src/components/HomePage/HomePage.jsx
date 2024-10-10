@@ -61,21 +61,21 @@ function HomePage(){
                 </p>
 
                 <div>
-                    <a href='https://github.com/gaurav-singh20' target='_blank'>
+                    <a href='https://github.com/Mritunjay021' target='_blank'>
                         <img 
                             src={githubIcon} 
                             alt="githubIcon" 
                             className='homepage_icons'
                         />
                     </a>
-                    <a href='https://x.com/singh_gauravv20' target='_blank'>
+                    <a href='https://x.com/mritunjayr_2104' target='_blank'>
                         <img 
                             src={twitterIcon} 
                             alt="twitterIcon" 
                             className='homepage_icons'
                         />
                     </a>
-                    <a href='https://www.linkedin.com/in/gauravxingh-17j' target='_blank'>
+                    <a href='https://www.linkedin.com/in/mritunjay-21-rai' target='_blank'>
                         <img 
                             src={linkedinIcon} 
                             alt="linkedinIcon" 
@@ -84,7 +84,7 @@ function HomePage(){
                     </a>
                 </div>
 
-                <a href="mailto:gauravostro15@gmail.com">
+                <a href="mailto:mrityurk21@gmail.com">
                     <button className='homepage_left_button'>Get in touch</button>
                 </a>
                 
