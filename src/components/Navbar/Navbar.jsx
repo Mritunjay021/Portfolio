@@ -29,7 +29,7 @@ function Navbar() {
 
         }
 
-        <a href="tel:+1234567890" className='no-underline'>
+        <a href="tel:+91-7880343213" className='no-underline'>
           <p>Contact</p>
         </a>
       </div>

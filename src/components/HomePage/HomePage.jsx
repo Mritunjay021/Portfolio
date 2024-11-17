@@ -61,7 +61,7 @@ function HomePage(){
                 </p>
 
                 <div>
-                    <a href='https://github.com/Mritunjay021' target='_blank'>
+                    <a href='https://https://github.com/Mritunjay021' target='_blank'>
                         <img 
                             src={githubIcon} 
                             alt="githubIcon" 
@@ -75,7 +75,7 @@ function HomePage(){
                             className='homepage_icons'
                         />
                     </a>
-                    <a href='https://www.linkedin.com/in/mritunjay-21-rai' target='_blank'>
+                    <a href='https://www.linkedin.com/in/mritunjay-21-rai/' target='_blank'>
                         <img 
                             src={linkedinIcon} 
                             alt="linkedinIcon" 
