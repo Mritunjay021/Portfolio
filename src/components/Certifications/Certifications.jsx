@@ -56,14 +56,15 @@ function Certifications() {
     const statements2 = [
         "Completed a self-paced course on Supervised Machine Learning: Regression and Classification by DeepLearning.AI and Stanford University through Coursera",
         "Gained deep understanding of machine learning fundamentals, including loss functions, gradient descent, and regularization.",
-        "The course covered essential algorithms such as linear regression, logistic regression, and classification models with real-world applications"
+        "The course covered essential algorithms such as linear regression, logistic regression, and classification models with real-world applications",
+        "Applied concepts using Python and implemented models to solve practical ML problems"
     ];
     
     const statements3 = [
         "Completed a 12-week instructor-led Deep Learning course by NPTEL, covering core concepts and hands-on model development.",
         "Gained practical experience in building and training neural networks using techniques like backpropagation and optimization algorithms.",
         "The course covered CNNs, RNNs, deep generative models, and real-time applications across industries.",
-        "Applied concepts through weekly graded assignments and final assessments, achieving strong results."
+        "Applied concepts through weekly graded assignments and final assessments, achieving strong results and reinforcing understanding "
     ];
     
 
