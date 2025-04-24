@@ -7,7 +7,7 @@ export default function Footer(){
                 <p>Copyright &copy;2024 React Project by <span className='footer-name'>Mritunjay Rai</span>. </p>
             </div>
             <div className="footer_text_right">
-            <p>Not an actual Portfolio. Just built it as a project using React+Vite.</p>
+            <p>This is my personal online portfolio. Not to be copied by anyone.</p>
             </div>
         </div>
     );

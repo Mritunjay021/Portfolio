@@ -47,21 +47,19 @@ function HomePage(){
                 </p>
 
                 <p className='homepage_left_p2'>
-                    Mritunjay Rai
+                    Mritunjay Kumar Rai
                 </p>
 
                 <p className='homepage_left_p3'>
-                    Developer at <span className='hi_span'>ABC pvt ltd</span>
+                    Student at <span className='hi_span'>Lovely Professional University</span>
                 </p>
 
                 <p className='homepage_left_description'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ut illum sequi fugiat reiciendis officia veritatis dicta perspiciatis, saepe quo at numquam ducimus molestias animi maiores assumenda labore quaerat eaque.
-                    Lorem, ipsum dolor.
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam distinctio doloribus accusantium debitis illum deleniti facere in maiores, at reprehenderit earum rem sint eligendi. Recusandae magni perspiciatis exercitationem nihil ipsum possimus corporis ipsa repudiandae sint eligendi aut libero officia molestias, aperiam, quaerat sed aspernatur consectetur laboriosam quibusdam repellat? Ipsum, ipsa.
+                 A passionate and driven Computer Science and Engineering student at Lovely Professional University, graduating with the Class of 2026. With a specialization in Data Science, I am dedicated to using data-driven insights to solve real-world challenges. I have a strong foundation in programming, machine learning, and data analytics, and I am always eager to explore innovative technologies. I am enthusiastic about contributing to meaningful projects, expanding my technical expertise, and helping build a smarter, more efficient future through intelligent systems and thoughtful solutions.
                 </p>
 
                 <div>
-                    <a href='https://https://github.com/Mritunjay021' target='_blank'>
+                    <a href='https://github.com/Mritunjay021' target='_blank'>
                         <img 
                             src={githubIcon} 
                             alt="githubIcon" 
