@@ -57,7 +57,7 @@ function Certifications() {
         "Completed a self-paced course on Supervised Machine Learning: Regression and Classification by DeepLearning.AI and Stanford University through Coursera",
         "Gained deep understanding of machine learning fundamentals, including loss functions, gradient descent, and regularization.",
         "The course covered essential algorithms such as linear regression, logistic regression, and classification models with real-world applications",
-        "Applied concepts using Python and implemented models to solve practical ML problems"
+        "Applied concepts using Python and implemented models to solve practical ML problems and improve accuracy.",
     ];
     
     const statements3 = [
